@@ -1,10 +1,22 @@
 /* Ref:  http://www.w3schools.com/css/css_syntax.asp */
 
-body, html { /* General style rules for the body section */
+
+
+body { /* General style rules for the body section */
   height:100%;
 	width: 100%;
+}
 
-	background-color:gray;
+body {
+  background-image: url("images2/background2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:100%;
+  background-attachment: scroll;
+}
+
+body {
+	background-color:white;
 	color:orange;
 	text-align: center
 }
@@ -47,6 +59,13 @@ h2 { /* Mathces elements with h2 tag*/
 #div4 {
 	background-color: #D307FF;
 	margin: 5%;
+	padding:6px;
+	clear: both;
+}
+
+#div5 {
+  background-color: #D307FF;
+  margin: 5%;
 	padding:6px;
 	clear: both;
 }
