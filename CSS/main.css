@@ -45,9 +45,20 @@ font-family: 'Press Start 2P', cursive;
   top:40%;
 }
 
+
 #div5 {
   background-color: #D307FF;
   margin: 5%;
 	padding:6px;
 	clear: both;
+}
+#div8{
+  position:absolute;
+  left:30%;
+  top:30%;
+}
+#div9{
+  position:absolute;
+  left:56.6%;
+  top:57.25%;
 }
