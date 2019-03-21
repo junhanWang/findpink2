@@ -31,9 +31,9 @@ body {
 
 #div2 {
 color: white;
-font-family: Orbitron, sans-serif;
+font-family: 'Press Start 2P', cursive;
  position: absolute;
- left:42%;
+ left:39%;
  top:15%;
  font-size: 100px;
 
@@ -43,18 +43,6 @@ font-family: Orbitron, sans-serif;
 	position: absolute;
   left:40%;
   top:40%;
-}
-
-
-
-
-
-}
-#div4 {
-	background-color: #D307FF;
-	margin: 5%;
-	padding:6px;
-	clear: both;
 }
 
 #div5 {
