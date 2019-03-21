@@ -6,17 +6,16 @@ body { /* General style rules for the body section */
   height:100%;
 	width: 100%;
 }
-
 body {
-  background-image: url("images2/background2.png");
+  background-image: url(/images2/background2.png);
   background-repeat: no-repeat;
   background-size: cover;
-  height:100%;
-  background-attachment: scroll;
 }
 
+
+
 body {
-	background-color:white;
+	background-color:black;
 	color:orange;
 	text-align: center
 }
@@ -31,9 +30,12 @@ h2 { /* Mathces elements with h2 tag*/
 }
 
 #div1 { /* Matches element with id=SimpleDiv */
+ position:absolute;
+ left: 40%;
+ top:40%;
+}
 
-  background:pink;
-	color: hotpink;
+
 
 
 	border-style: solid groove;
