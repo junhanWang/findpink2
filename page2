@@ -1,0 +1,23 @@
+<html>
+
+
+    <head>
+
+        <link rel="stylesheet" type="text/css" href="CSS/main.css">
+
+
+    </head>
+
+
+
+  <body>
+    <div id="div1">
+    <img src="images2/yes.jpg">
+  </div>
+
+
+
+
+  </body>
+
+</html>
