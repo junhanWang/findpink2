@@ -34,8 +34,8 @@ color: white;
 font-family: 'Press Start 2P', cursive;
  position: absolute;
  left:39%;
- top:15%;
- font-size: 100px;
+ top:25%;
+ font-size: 80px;
 
 }
 #div3 {
@@ -50,4 +50,26 @@ font-family: 'Press Start 2P', cursive;
   margin: 5%;
 	padding:6px;
 	clear: both;
+}
+#div6 {
+  position:absolute;
+  top:40%;
+  left:40%;
+}
+
+#div7{
+  position:absolute;
+  top:65%;
+  left:45%;
+}
+
+#div12{
+  position:absolute;
+  top:50%;
+  left:45%;
+}
+#div13{
+  position:absolute;
+  top:40%;
+  left:40%;
 }
