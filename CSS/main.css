@@ -31,8 +31,10 @@ body {
 
 #div1 { /* Matches element with id=SimpleDiv */
  position:absolute;
- left: 30%;
- top:30%;
+ left:19%;
+ top:25%;
+ width:1%；
+ height:1%:
 }
 
 
@@ -40,11 +42,12 @@ body {
 color: white;
 font-family: 'Press Start 2P', cursive;
  position: absolute;
- left:39%;
- top:25%;
- font-size: 80px;
+ left:45%;
+ top:20%;
+ font-size: 12px;
 
 }
+
 #div3 {
 
 	position: absolute;
@@ -164,4 +167,9 @@ font-family: 'Press Start 2P', cursive;
 position: absolute;
 top:1%;
 left: 30%;
+}
+#div25{
+  position: absolute;
+  top:1%;
+  left: 30%;
 }
