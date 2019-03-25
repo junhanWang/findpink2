@@ -16,9 +16,9 @@ body { /* General style rules for the body section */
 	width: 100%;
 }
 body {
-  background-image: url(/images2/background2.png);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-image:url(/images2/background2.png);
+  background-repeat:repeat;
+  background-size:cover;
 }
 
 
@@ -31,8 +31,8 @@ body {
 
 #div1 { /* Matches element with id=SimpleDiv */
  position:absolute;
- left:19%;
- top:25%;
+ left:30%;
+ top:30%;
  width:1%；
  height:1%:
 }
@@ -175,8 +175,6 @@ left: 30%;
 }
 #div26{
   position: absolute;
-  /*top:50%;
-  */
   top:85%;
   left:25%;
   color:blue;
@@ -207,7 +205,7 @@ left: 30%;
   position: absolute;
   /*top:50%;
   */
-  top:85%;
+  top:94%;
   left:25%;
   color:blue;
   font-family: 'Press Start 2P', cursive;
@@ -217,7 +215,7 @@ left: 30%;
   position: absolute;
   /*top:50%;
   */
-  top:70%;
+  top:90%;
   left:25%;
   color:blue;
   font-family: 'Press Start 2P', cursive;
@@ -237,8 +235,8 @@ left: 30%;
   position: absolute;
   /*top:50%;
   */
-  top:80%;
-  left:25%;
+  top:90%;
+  left:10%;
   color:blue;
   font-family: 'Press Start 2P', cursive;
   font-size: 10 pt;
