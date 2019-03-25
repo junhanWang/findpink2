@@ -173,3 +173,8 @@ left: 30%;
   top:1%;
   left: 30%;
 }
+#video{
+  position: absolute;
+  top:1%;
+  left:20%;
+}
