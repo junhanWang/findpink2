@@ -13,7 +13,7 @@ body { /* General style rules for the body section */
 	width: 100%;
 }
 body {
-  background-image:url("images2/background2.png");
+  background-image: url("images2/background2.png");
   background-repeat:repeat;
   background-size:cover;
 }
