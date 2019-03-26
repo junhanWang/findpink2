@@ -118,7 +118,7 @@ font-family: 'Press Start 2P', cursive;
 }
 #div18{
   position: absolute;
-  top:30%;
+  top:15%;
   left:30%;
   width: 100%;
   height: 100%;
@@ -175,17 +175,18 @@ left: 30%;
 }
 #div26{
   position: absolute;
-  top:85%;
+  top:20%;
   left:25%;
   color:blue;
   font-family: 'Press Start 2P', cursive;
-  font-size: 10 pt;
+  font-size:6pt;
+  width:1%;
 
 }
 #div27{
   position: absolute;
    top:90%;
-  left:25%;
+  left:30%;
   color:blue;
   font-family: font-family: 'Noto Sans TC', sans-serif;
   font-size: 10pt;
@@ -195,49 +196,53 @@ left: 30%;
   position: absolute;
   /*top:50%;
   */
-  top:70%;
-  left:25%;
+  top:55%;
+  left:35%;
   color:blue;
   font-family: 'Press Start 2P', cursive;
-  font-size: 10 pt;
+  font-size: 6pt;
+  width: 30%;
 }
 #div29{
   position: absolute;
   /*top:50%;
   */
-  top:94%;
-  left:25%;
+  top:25%;
+  left:30%;
   color:blue;
   font-family: 'Press Start 2P', cursive;
-  font-size: 10 pt;
+  font-size: 6pt;
+  width: 40%;
 }
 #div30{
   position: absolute;
   /*top:50%;
   */
-  top:90%;
-  left:25%;
+  top:60%;
+  left:30%;
   color:blue;
   font-family: 'Press Start 2P', cursive;
-  font-size: 10 pt;
+  font-size: 6pt;
+  width:48%;
 }
 #div31{
   position: absolute;
   /*top:50%;
   */
-  top:50%;
-  left:25%;
+  top:40%;
+  left:30%;
   color:blue;
   font-family: 'Press Start 2P', cursive;
-  font-size: 10 pt;
+  font-size: 6pt;
+  width:20%;
 }
 #div32{
   position: absolute;
   /*top:50%;
   */
-  top:90%;
-  left:10%;
+  top:50%;
+  left:45%;
   color:blue;
   font-family: 'Press Start 2P', cursive;
-  font-size: 10 pt;
+  font-size: 6pt;
 }
