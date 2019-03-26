@@ -28,12 +28,15 @@ body {
 
 
 #div2 {
-color: white;
+color: pink;
 font-family: 'Press Start 2P', cursive;
  position: absolute;
- left:45%;
- top:20%;
- font-size: 12px;
+ left:37.8%;
+ top:48%;
+ font-size: 18pt;
+ width:30%;
+ height:30%;
+
 
 }
 
@@ -230,9 +233,36 @@ left: 30%;
   position: absolute;
   /*top:50%;
   */
-  top:50%;
-  left:45%;
+  top:60%;
+  left:39%;
   color:blue;
   font-family: 'Press Start 2P', cursive;
   font-size: 6pt;
+}
+#背景1{
+  float: left;
+  width: %;
+}
+#背景2{
+  width:35%;
+  clear: both;
+}
+
+#背景3{
+float: right;
+width: 35%;
+
+}
+#背景4{
+  position:absolute;
+  top:68%;
+  left:67%;
+}
+
+#paragraph{
+  background-color: black;
+  color:pink;
+  font-family: 'Press Start 2P', cursive;
+
+
 }
