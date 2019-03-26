@@ -1,5 +1,3 @@
-/* Ref:  http://www.w3schools.com/css/css_syntax.asp */
-
 
 @import url('https://fonts.googleapis.com/css?family=Orbitron|Press+Start+2P');
 
@@ -8,21 +6,15 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC|Noto+Serif+TC');
 
 
-body { /* General style rules for the body section */
-  height:100%;
+body {
 	width: 100%;
 }
+
 body {
   background-image: url("images2/background2.png");
   background-repeat:repeat;
-  background-size:cover;
+  background-size: cover;
 }
-
-
-
-
-
-
 
 
 
