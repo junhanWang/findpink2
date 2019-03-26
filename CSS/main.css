@@ -1,22 +1,19 @@
 /* Ref:  http://www.w3schools.com/css/css_syntax.asp */
 
 
-
-
 @import url('https://fonts.googleapis.com/css?family=Orbitron|Press+Start+2P');
-<style>
+
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif+TC');
-</style>
-<style>
+
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC|Noto+Serif+TC');
-</style>
+
 
 body { /* General style rules for the body section */
   height:100%;
 	width: 100%;
 }
 body {
-  background-image:url(/images2/background2.png);
+  background-image:url("images2/background2.png");
   background-repeat:repeat;
   background-size:cover;
 }
@@ -113,7 +110,7 @@ font-family: 'Press Start 2P', cursive;
 }
 #div17{
   position: absolute;
-  top:1%;
+  top:18%;
   left:30%;
 }
 #div18{
@@ -146,11 +143,12 @@ font-family: 'Press Start 2P', cursive;
   position: absolute;
   /*top:50%;
   */
-  top:50%;
-  left:25%;
+  top:65%;
+  left:36%;
   color:blue;
   font-family: 'Press Start 2P', cursive;
-  font-size: 10 pt;
+  font-size:6pt;
+  width:25%;
 
 }
 #div23{
